@@ -10,11 +10,11 @@ Date authored: 2026-10-09
 
 
 
-#### Glossary of abbrevations
+#### Glossary of abbreviations
 
 
 
-Caution: The following were determined by directly examining the dataset folder. The owner of the original data files should be consulted prior to using in production.
+Caution: The following were determined by inference after initially examining the dataset folder. The owner of the original data files should be consulted prior to using in a production environment.
 
 
 
@@ -26,6 +26,10 @@ Caution: The following were determined by directly examining the dataset folder.
 |LOC|location|
 |CAT|category|
 |PX\_CAT|product category|
+|CID|customer ID|
+|BDATE|birthdate|
+|GEN|gender|
+|CNTRY|country|
 
 
 
