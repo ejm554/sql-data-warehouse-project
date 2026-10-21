@@ -1,0 +1,2 @@
+# Local versions of files that shouldn't be committed
+*.local.*
